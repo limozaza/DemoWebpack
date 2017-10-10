@@ -1,5 +1,5 @@
 import {log, log2} from './log.js';
-import $ from 'jquery';
+import css from './app.scss';
 
 
 document.getElementById('button').addEventListener('click',function(){
